@@ -1,0 +1,7 @@
+ollama
+faiss-cpu
+tiktoken
+streamlit
+numpy
+sentence_transformers
+docling
